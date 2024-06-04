@@ -1,5 +1,5 @@
 Flask==2.1.1
-Werkzeug==2.1.1
+Werkzeug==3.0.2
 Flask-Login==0.5.0
 Pillow==9.1.0
 rembg==2.0.57
